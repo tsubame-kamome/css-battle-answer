@@ -1,2 +1,2 @@
-# css-battle-answer
-CSSBattleの回答です。
+# CSSBattleの私の回答
+CSSBattleで書いたコードです。
