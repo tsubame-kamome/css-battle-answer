@@ -1,5 +1,6 @@
 # CSSBattleの私の回答
-[CSSBattle](https://cssbattle.dev/)を解いてみました。私の回答です。
+[CSSBattle](https://cssbattle.dev/)を解いてみました。
 
 [#1. Simply Square](https://github.com/tsubame-kamome/css-battle-answer/blob/main/%231-simply-square)
+
 [#2. Carrom](https://github.com/tsubame-kamome/css-battle-answer/blob/main/%232-carrom)
